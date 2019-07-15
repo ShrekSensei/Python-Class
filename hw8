@@ -1,0 +1,5 @@
+1)Updates the list by adding an object to the list
+2)removes the item which is passed as an argument
+3)It is basically used in Python to add one element. 
+4).pop() removes the item at a specific index and returns it.The clear() method removes all elements from the set. 
+5)Friends2 carries a copy of the original Friends list
